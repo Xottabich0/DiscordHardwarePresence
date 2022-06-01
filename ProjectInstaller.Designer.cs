@@ -35,6 +35,7 @@
             // 
             // serviceProcessInstaller1
             // 
+            serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             serviceProcessInstaller1.Password = null;
             serviceProcessInstaller1.Username = null;
             // 
@@ -42,7 +43,7 @@
             // 
             serviceInstaller1.Description = "DiscordStatus";
             serviceInstaller1.DisplayName = "DiscordStatus";
-            serviceInstaller1.ServiceName = "Service1";
+            serviceInstaller1.ServiceName = "DiscordStatus";
             serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
