@@ -11,7 +11,7 @@ Small service that display your PC statistic on discord.
 ## Installation
 
 Download installer from releases and run as administrator
-Turn on activity status in discord
+and Turn on activity status in discord
 
     
 ## Compilation
