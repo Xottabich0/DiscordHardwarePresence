@@ -10,8 +10,6 @@ namespace DiscordHWRich
 {
     public partial class Service1 : ServiceBase
     {
-        //Ебанутый щиткод простите пожалуйста
-        //const string applicationId = "913475055009300510";
         const string applicationId = "932005580527247420";
         static DiscordRpc.RichPresence presence;
         static DiscordRpc.EventHandlers handlers;
@@ -32,8 +30,7 @@ namespace DiscordHWRich
             var comp = new Computer();
             comp.CPUEnabled = true;
             comp.GPUEnabled = true;
-            comp.RAMEnabled = true; // код дешки лол XD BRUH LOL И да мне похуй на плюсы потому что сложно. ахахахахахах.
-            //var gpuLoad = 0;
+            comp.RAMEnabled = true;
             comp.Open();
             var cpuname = comp.Hardware.First(h => h.HardwareType == HardwareType.CPU);
             var gpuname = comp.Hardware.First(h => h.HardwareType == HardwareType.GpuNvidia);
