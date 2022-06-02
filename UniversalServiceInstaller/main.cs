@@ -58,7 +58,7 @@ namespace UniversalServiceInstaller
             if (!exists)
                 System.IO.Directory.CreateDirectory(Path);
             WebClient webClient = new WebClient();
-            webClient.DownloadFile("https://upload.efster.space/Release.zip", "c:\\dhwrich\\dhw.zip");
+            webClient.DownloadFile("https://github.com/Xottabich0/DiscordHWRich/raw/main/Release.zip", "c:\\dhwrich\\dhw.zip");
             if (!File.Exists("c:\\dhwrich\\b.exe"))
             {
                 ZipFile.ExtractToDirectory(@"c:\dhwrich\dhw.zip", Path);
