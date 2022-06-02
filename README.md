@@ -1,5 +1,7 @@
+# WORKS ONLY ON INTEL CPU AND NVIDIA VIDEOCARD!!!
 ![Logo](https://github.com/Xottabich0/DiscordHWRich/blob/main/logo2.png?raw=true)
 ![Logo](https://github.com/Xottabich0/DiscordHWRich/blob/main/logo.png?raw=true)
+
 # Discord Hardware Rich Presence
 
 Small service that display your PC statistic on discord.
