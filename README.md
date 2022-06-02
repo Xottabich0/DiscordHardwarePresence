@@ -1,4 +1,4 @@
-# WORKS ONLY ON INTEL CPU AND NVIDIA VIDEOCARD!!!
+# WORKS ONLY ON INTEL CPU AND NVIDIA GPU!!!
 ![Logo](https://github.com/Xottabich0/DiscordHWRich/blob/main/logo2.png?raw=true)
 ![Logo](https://github.com/Xottabich0/DiscordHWRich/blob/main/logo.png?raw=true)
 
