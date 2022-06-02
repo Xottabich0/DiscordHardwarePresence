@@ -10,7 +10,7 @@ Small service that display your PC statistic on discord.
 
 ## Installation
 
-Download installer from releases and run from administrator
+Download installer from releases and run as administrator
 
     
 ## Compilation
